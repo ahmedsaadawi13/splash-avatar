@@ -1,0 +1,37 @@
+# FILE: /.gitignore
+
+# Environment configuration
+.env
+
+# Storage files
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+/storage/logs/*
+!/storage/logs/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Dependencies
+/vendor/
+node_modules/
+
+# Build files
+/public/build/
+/public/hot
+
+# Cache
+*.cache
