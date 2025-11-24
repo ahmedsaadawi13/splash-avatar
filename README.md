@@ -69,7 +69,7 @@ SplashAvatar is a complete multi-tenant SaaS application built in PHP and MySQL 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/splash-avatar.git
+git clone https://github.com/ahmedsaadawi13/splash-avatar.git
 cd splash-avatar
 ```
 
